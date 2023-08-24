@@ -3,5 +3,3 @@ Hello, This is an implementation of end to end ML project. Folllowing are the sa
 2. All the files are well organized.
 3. Modular code is present.
 4. Compliance industry standard
-
-Would feel appreciated if you give a heart to me and heartly welcome your support.
